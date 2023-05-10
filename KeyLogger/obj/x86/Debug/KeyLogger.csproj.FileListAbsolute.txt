@@ -1,0 +1,12 @@
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.Form1.resources
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.Properties.Resources.resources
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.exe
+c:\users\arioo\documents\visual studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.pdb
+C:\Users\Arioo\Documents\Visual Studio 2010\Projects\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\Arioo\Documents\Visual Studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Arioo\Documents\Visual Studio 2010\Projects\KeyLogger\KeyLogger\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
